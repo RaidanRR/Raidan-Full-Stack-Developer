@@ -71,5 +71,5 @@ I’m open to junior developer roles, freelance opportunities, or remote collabo
 Let’s build something great together!
 
 📧 Email: edward5raidan5497@gmail.com  
-📦 GitHub: [github.com/RaidanRR](https://github.com/RaidanRR)  
+📦 GitHub: [github.com/Reltroner](https://github.com/Reltroner)  
 🧭 Recruiter Page: [reltroner-studio.vercel.app/blog/for-recruiters](https://reltroner-studio.vercel.app/blog/for-recruiters)
