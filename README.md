@@ -44,7 +44,7 @@ My personal mission is to create clean, scalable, and meaningful systems — and
 ## 🧩 Side Projects & Learning Journey
 
 - 🌐 Building **Reltroner Studio** — a worldbuilding + full stack branding project using Next.js
-- 🧠 Learned by debugging 28+ Laravel errors & converting struggle into skill
+- 🧠 Learned by debugging 16+ Laravel errors & converting struggle into skill
 - 📚 Regularly study developer docs, technical blogs, and software architecture concepts
 
 ---
