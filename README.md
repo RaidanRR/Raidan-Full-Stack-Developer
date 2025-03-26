@@ -72,4 +72,4 @@ Let’s build something great together!
 
 📧 Email: edward5raidan5497@gmail.com  
 📦 GitHub: [github.com/Reltroner](https://github.com/Reltroner)  
-🧭 Recruiter Page: [reltroner-studio.vercel.app/blog/for-recruiters](https://reltroner-studio.vercel.app/blog/for-recruiters)
+🧭 Recruiter Page: [reltroner.com/blog/for-recruiters](https://www.reltroner.com/blog/for-recruiters)
