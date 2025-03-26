@@ -3,7 +3,7 @@
 📍 Indonesia (Open to Remote Work)  
 📧 edward5raidan5497@gmail.com  
 🌐 [github.com/Reltroner](https://github.com/Reltroner)  
-🔗 [reltroner-studio.vercel.app/blog/for-recruiters](https://reltroner-studio.vercel.app/blog/for-recruiters)
+🔗 [https://www.reltroner.com/](https://www.reltroner.com/blog/for-recruiters)
 
 ---
 
